@@ -8,7 +8,7 @@ export const tarotCardJson = [
        "size": "22x28",
        "tag": "major",
        "tarot-number": "00",
-       "text": "The Fool starts our journey. Without experience, they make leaps of intuition, fueled by hope. They trust their abilities and the process of learning and getting back up again when they fall.  ",
+       "text": "Innocence. Beginnings. Setting off on a Journey. The Fool has wings but doesn't yet know how to use them. They are freshly out of the cocoon, operating on the joy of existence, facing uncertainty and likely to leap without knowing quite where they'll land. Sometimes you follow the river because it's there and you don't have anywhere else to go anyway.",
        "uri": "fool-2.jpg",
     },{
         "dateCompleted": "2021-03-07",
@@ -16,7 +16,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "01",
-        "text": "The magician creates the reality of their choosing through an act of will. They may bring others along. Question what the magician shows you, even when you are the magician.",
+        "text": "The Will depicts the Magician in traditional tarot. Charismatic trickster, huckster, illusionist, with all the tools of the arcana at hand.  The Will asks you to be aware of potential manipulators. Question simple answers, claims with little evidence, and your own desire for something to be true. Be aware of your own ability to manipulate others and yourself. Consider another path before you erode trust and damage relationships. Question what the magician shows you, even when you are the magician.",
         "uri": "magus.jpg",
      },{
         "dateCompleted": "2020-12-26",
@@ -24,7 +24,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "02",
-        "text": "Some await extraterrestials, others gods or sons or the secrets to completion. Earth is our paradise and our birthright, if only we could regain our ancestral human sense of belonging here, deeply a part of it.",
+        "text": "The Priestess in a traditional deck. She bears arcane knowledge and keeps herself separate from the world. Don't let your fears keep you away from the joys of existence. There is value in retreat, in study, in deepening your understanding of how you want to walk the earth. But don't lose sight of living and breathing, stretching and becoming and connecting. You don't need to wait for anyone else to save you, not god, alien, nor apocalypse. Everything is already out there waiting for you. This card recognizes you may need stillness now but warns against stasis.",
         "uri": "priestess.jpg",
      },{
         "dateCompleted": "2022-06-24",
@@ -32,7 +32,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "03",
-        "text": "Reproduction is bloody. Not reproducing is bloody. Forcing reproduction is bloodier still. Fuck male supremacy. Women are not property; People are not property. Bodily autonomy is a human right.",
+        "text": "The Empress in traditional tarot decks. Her focus is often on reproductive activities and a healthy bounteous abundance. This card's focus is reproduction, the role of those who can be pregnant, the risks and fears, desires and dreams. You may be undergoing a reproductive struggle or wrestling with traditional feminine roles within society or your relationship with femininity. Remember that your body is your own. You have every right to enjoy its bounty, feed it, touch it, modify it, challenge it, and claim it.",
         "uri": "multiplier.jpg",
      },{
         "dateCompleted": "2021-01-17",
@@ -40,7 +40,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "04",
-        "text": "The Authority offers order at the price of freedom. Do not give him too much. Do not forget your community when protecting your own interests. ",
+        "text": "The Emperor in traditional tarot. He is the patriarch. He is order. This painting reflects the God of my childhood: judgmental, ever-watching and demanding love as obedience and an abdication of the giver's self. Masculinity and leadership should not be anything like this horror. It should be gentleness - love that does not demand, but serves and returns respect for respect, joy for joy. The card indicates the influence of an authority in your life, good or bad. It may indicate better leadership is needed or push for you to fill that role. It may bring your attention to the structure and rules in your life. External hierarchies may be of importance.",
         "uri": "emperor.jpg",
      },{
         "dateCompleted": "2021-05-13",
@@ -48,7 +48,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "05",
-        "text": "The Guide is a bridge or a waterway, of knowledge or tradition. Follow your path, it is time for seeking.",
+        "text": "The traditional Hierophant. This card indicates a guide into the spiritual or philosophical. It may reflect traditions being passed on to you. It may be a time when you feel a calling to find greater meaning beyond your everyday. Or perhaps you are at an impasse and unsure how to move forward without trusted advice from a friend or a community leader, someone who has experienced the journey already, has passed over these waters, there and back again. The path forward may not be clear yet but many others have trod this path.",
         "uri": "hierophant.jpg",
      },{
         "dateCompleted": "2023-02-18",
@@ -56,7 +56,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "06",
-        "text": "The Lover is a meditation on choices, human relationships, our powers of self-determination and bodily autonomy, as well as an examination of gender roles. This arcana holds multitudes.",
+        "text": "The Lover is about relationships. It highlights the roles we play, the societal expectations that influence us and the ways that we navigate them. When painting this, I was thinking about Adam and Eve and the way their story imposes a framework for gender relations that is still in place today. I was thinking about Lilith and her successful rejection of those roles. The Tree of Good and Evil and its forbidden knowledge, there to tempt but also to grant full humanity. This is a moment to examine your place in the world and in your relationships. Do the roles you play and the path you walk serve you? Is it time to do something new, to become someone new? Or do you have knowledge to share with someone who has a decision to make? You can always choose to take wing and reject the predetermined course. Make your own mythos, see the world through your own lens. ",
         "uri": "lover.jpg",
      },{
         "dateCompleted": "2021-03-12",
@@ -64,7 +64,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "07",
-        "text": "Successful action in the world.",
+        "text": "The Chariot is in motion. It's momentum and joyful victory in the world. You're out there getting things accomplished, feeling your capability and power. This is a great time to finish a lingering project or get started with one. Get out there and get it.",
         "uri": "chariot.jpg",
      },{
         "dateCompleted": "2022-06-04",
@@ -72,7 +72,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "08",
-        "text": "The Law is a human institution, prone to protecting property above people. The scales are not balanced. Injustice is the norm. Prison labor is legal slavery. The rollback of our bodily autonomy looms. So much work to do.",
+        "text": "The Law is traditionally Justice. This card reflects on the state as maker and breaker of the rules and wielder of the sword of sanctioned violence. This card asks us what imbalances are at play in our lives. Where are we accepting what we could change? How are we using our power to benefit our communities? This card may indicate other entanglements with government such as a visit to the DMV, a community meeting to attend, or taxes or stickers to attend to.",
         "uri": "the-law.jpg",
      },{
         "dateCompleted": "2021-04-18",
@@ -80,7 +80,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "09",
-        "text": "The hermit retreats forward, their lived experience lighting the way down the path of inner wisdom and knowing themself.",
+        "text": "The Hermit has traveled the lessons of the first half of the arcana. They retreat to listen within themselves. Self-knowledge and understanding of who we are, what we need, what we're feeling and why. Meditation and time spent quietly observing my awareness of my body and my emotions is some of the most valuable time I have spent. Meditation and dialogue with your inner self is a valuable tool for understanding the wounds you carry, for discovering what you need, and how to provide that so you can heal your emotional, inner self. Take time to understand what you need. Give yourself the gift of listening to you. If the time is right, allow yourself to process the things you've been carrying, the things you haven't let yourself know or feel because it was not yet time for it. Don't force yourself. You must trust yourself to take as much time as you need. This process is not done in a day or a season but you will know when it is time to do a little more.",
         "uri": "hermit.jpg",
      },{
         "dateCompleted": "2022-11-13",
@@ -88,7 +88,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "10",
-        "text": "The Wheel is often seen as the ups and downs of fate and chance. Ours is about the eternal tug of war between authoritarian and free societal paths. Hierarchy versus mutual aid and self creation. Progress made and reactionary pushback that will never disappear but can be overpowered. Moments poised for sudden shifts as leverages shift and change follows.",
+        "text": "The Wheel is a card of change. Some view it as seasonal changes or changes brought about by the hand of Fate. I painted this while thinking about the seemingly unending struggle between the forces of repression and freedom. Our society cycles through periods of authoritarian repression, usually taking rights away from minorities and women while empowering cruelty. Eventually the People seize the wheel and regain what is rightfully ours. The Wheel calls attention to our history and our future and how they are connected. The Wheel knows that nothing is forever and change is inevitable. Pulling the Wheel may mean you are experiencing the impacts of this change. It may be a reminder to grab the rope and pull, whether that is calling your senator, making a sign to carry, or supporting a friend who has been impacted. Every hand helps turn the wheel; we make our own luck. Drawing the wheel indicates that change is on the horizon.",
         "uri": "wheel.jpg",
      },{
         "dateCompleted": "2021-01-28",
@@ -96,7 +96,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "11",
-        "text": "Embrace your animal self in a collaborative and balanced partnership. Your reason tempers instinct while intuition informs reason.",
+        "text": "The Animal is traditionally Strength. This card asks you to be aware of your hungers, your impulses, your flashes of anger and instinctual fears. Becoming a mature person means mastering our impulses, emotions and instincts but that doesn't mean to suppress them, hide them, or deny them. Instead, it asks that we listen to that animal self deep within, listen to its warnings, its immediate understanding of the trustworthiness or safety of a situation. What it tells us about ourselves to want this thing or person. Then, to use our slower thought to understand how to respond, when to respond. It allows us to tame those impulses while learning what they know. To befriend that ancient part of ourselves while not being overpowered by it. The Animal may draw your attention to a desire to respond to something purely on instinct but warns against that impulse. It may caution of someone in your life who acts that way or brings your basest self to the surface. It may feel good in the moment to give in but it is rarely an advisable path.",
         "uri": "strength.jpg",
      },{
         "dateCompleted": "2020-12-13",
@@ -104,15 +104,15 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "12",
-        "text": "Immobilized. Unable to move on without either gaining understanding of another's perspective or admitting your own culpability. You control this, even if you do not want to admit it.",
-        "uri": "inverted.jpg",
+        "text": "The Inverted is traditionally the Hanged Man. They are in a position to see from a new or unusual perspective. The inverted may have an element of sacrifice, imprisonment, or involuntary waiting. The Inverted asks that you consider another perspective. It may draw your notice to the ways that you exist or should exist outside of 'normal' societal expectations.  Patience and reflection are going to be important, especially in cases where the querent is not yet ready to see. This card highlights allowing oneself to accept what you know so the period of immobility can end.",
+        "uri": "inverted_new.jpg",
      },{
         "dateCompleted": "2021-06-02",
         "name": "The Refiner",
         "size": "22x28",
         "tag": "major",
         "tarot-number": "13",
-        "text": "You're carrying things you no longer need. Don't worry about littering, let go and the Refiner will bury them for you. He's a skillful composter. The worms will help.",
+        "text": "The Refiner is traditionally Death. Do not be alarmed, as physical death is rarely what this card wants to call your attention to. Instead, the Refiner takes the things you've outgrown, the things that no longer serve you, and enables you to walk away lighter. What burdens have you imposed on yourself? What guilt, what duties, what roles or titles are no longer worth keeping? Lay your packages as his feet and let the Refiner bury them for you. He's a skillful composter. The worms will help.",
         "uri": "death.jpg",
      },{
         "dateCompleted": "2021-02-21",
@@ -120,7 +120,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "14",
-        "text": "Restore or maintain your balance and harmony. Sometimes opposites can be complementary rather than adversary.",
+        "text": "Traditionally Temperance, this card calls us to bring balance to our selves and our paths. Don't let the demands of one area of your life keep you from other important things. Restore or maintain your balance and harmony. Sometimes opposites can be complementary rather than adversary.",
         "uri": "temperance.jpg",
      },{
         "dateCompleted": "2020-10-10",
@@ -128,7 +128,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "major",
         "tarot-number": "15",
-        "text": "An unhealthy tie binds you to addiction, bad habits or toxic people. It is time to free yourself.",
+        "text": "Traditionally The Devil, this card is about the things that bind us: addictions, negative relationships, habits that eat away at us and our time and steal our life from us. The liberator calls our attention to them so that we can set ourselves free. He is a breaker of chains. Consider what you would like to break free from and what needs to happen to free you.",
         "uri": "devil.jpg",
      },{
         "dateCompleted": "2021-04-10",
@@ -136,7 +136,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "16",
-        "text": "An unexpected realization changes everything. Your protective tower can be your prison. It is time to move beyond it, accepting new information or perspective.",
+        "text": "The Realization is traditionally the Tower. While it can mean catastrophic change outside your control, it also points to a shattering of old understandings of the world, giving way and allowing fresh growth and new understanding. An unexpected realization changes everything.  Don't be afraid; though leaving old systems of belief can be hard to do, it will free you to grow and learn and see more clearly than before. A protective tower can be a prison. It is time to move beyond it, accepting a new information or perspective.",
         "uri": "tower.jpg",
      },{
         "dateCompleted": "2020-09-19",
