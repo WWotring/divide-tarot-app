@@ -232,16 +232,16 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "07",
-        "text": "Valour. Humanity reclaimed by force when there is no other option. When the time is right, PUSH. A new world may lie beyond.",
-        "uri": "fire-7.jpg",
+        "text": "The fire that burns all followed by renewal. Some changes require the destruction of what came before to nourish its growth and to free its seeds.",
+        "uri": "forestfire.jpg",
      },{
         "dateCompleted": "2021-03-15",
         "name": "Eight of Fire",
         "size": "16x20",
         "tag": "fire",
         "tarot-number": "08",
-        "text": "A ship travels the void at great speed. It represents increased momentum, fast travel, and instantaneous communication.",
-        "uri": "fire-8.jpg",
+        "text": "Actual or perceived velocity of travel through space or time. Blur of speed that life takes on when our days stretch on identically through age or conditions like lock down for a pandemic or waiting on external conditions to change.",
+        "uri": "fire-8.jpeg",
      },{
         "dateCompleted": "2021-08-22",
         "name": "Nine of Fire",
@@ -273,7 +273,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "12",
         "text": "The youth of fire is a creator of change. They are courageous in the face of old wrongs; speaking up, holding the front line, and making space for a wider movement to swell.",
-        "uri": "youth-fire.jpg",
+        "uri": "steppingintothelight.jpg",
      },{
         "dateCompleted": "2021-07-31",
         "name": "Adult of Fire",
@@ -312,8 +312,8 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "air",
         "tarot-number": "03",
-        "text": "Learn from everyone around you. Teach what you know. Listen to other's experiences and perspectives. Put your collective heads against a challenging problem. You don't have to know everything. You do have to reach out, ask questions, and share what you do know.",
-        "uri": "air-3.jpg",
+        "text": "What you once knew you knew, you now know better. What once seemed simple has unforseen depths. Travel onward! This is a journey of the self.",
+        "uri": "tunnel.jpg",
      },{
         "dateCompleted": "2021-07-12",
         "name": "Four of Air",
@@ -321,7 +321,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "04",
         "text": "The mind is at rest, comfortable and stable for the short term. Gather energy to move into new growth.",
-        "uri": "air-4.jpg",
+        "uri": "air-4b.jpg",
      },{
         "dateCompleted": "2021-10-22",
         "name": "Five of Air",
@@ -465,7 +465,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "08",
         "text": "Corruption. Rot from within poisoning the whole. The waters keep rising but those with institutional power have other concerns. Change only seems possible via a revolution of thought from below. There's a lot noise to get through.",
-        "uri": "water-8.jpg",
+        "uri": "morass.jpg",
      },{
         "dateCompleted": "2022-10-21",
         "name": "Nine of Water",
