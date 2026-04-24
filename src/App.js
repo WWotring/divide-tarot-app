@@ -1,5 +1,4 @@
-import React, {useState, useEffect, forceUpdate} from "react";
-import ReactModal from "react-modal";
+import React, {useState, useEffect} from "react";
 import { tarotCardJson } from "./data/cardJson";
 import "./App.css";
 import "./Modal.css";
@@ -59,7 +58,7 @@ function App() {
     
     setModalChild(imageChild);
   }
-  function closeModal() { setIsOpen(false) }
+
   Modal.setAppElement("#root")
 
   return (
