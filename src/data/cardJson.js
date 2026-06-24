@@ -555,13 +555,13 @@ export const tarotCardJson = [
         "text": "Disruption. The stability of four is replaced with upheaval. Now is the time to seek help and provide it.",
         "uri": "earth-5.jpg",
      },{
-        "dateCompleted": "2021-01-03",
+        "dateCompleted": "2026-06-24",
         "name": "Six of Earth",
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "06",
-        "text": "Returns from planned work are abundant. Enjoy your fruitfulness. Share your fruitfulness.",
-        "uri": "earth-6.jpg",
+        "text": "Growing conditions were not perfect but growth has taken root anyway. This isn't your last struggle but you have proof you are doing the thing and seeing results. Celebrate your efforts and those who helped along the way.",
+        "uri": "6_earth.jpeg",
      },{
         "dateCompleted": "2022-04-29",
         "name": "Seven of Earth",
@@ -576,7 +576,7 @@ export const tarotCardJson = [
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "08",
-        "text": "A lifetime's work completed. Generational change. Death and continuation.",
+        "text": "A lifetime's work completed. Generational change. Death and continuation. Every piece has been put into place as intended and desired, yet somehow it no longer feels right. The mood is quarter or midlife crisis.",
         "uri": "earth-8.jpg",
      },{
         "dateCompleted": "2021-02-26",
