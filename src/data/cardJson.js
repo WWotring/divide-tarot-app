@@ -9,7 +9,7 @@ export const tarotCardJson = [
        "tag": "major",
        "tarot-number": "00",
        "text": "Innocence. Beginnings. Setting off on a Journey. The Fool has wings but doesn't yet know how to use them. They are freshly out of the cocoon, operating on the joy of existence, facing uncertainty and likely to leap without knowing quite where they'll land. Sometimes you follow the river because it's there and you don't have anywhere else to go anyway.",
-       "uri": "fool-2.jpg",
+       "uri": "fool_sm.jpeg",
     },{
         "dateCompleted": "2021-03-07",
         "name": "The Will",
@@ -17,7 +17,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "01",
         "text": "The Will depicts the Magician in traditional tarot. Charismatic trickster, huckster, illusionist, with all the tools of the arcana at hand.  The Will asks you to be aware of potential manipulators. Question simple answers, claims with little evidence, and your own desire for something to be true. Be aware of your own ability to manipulate others and yourself. Consider another path before you erode trust and damage relationships. Question what the magician shows you, even when you are the magician.",
-        "uri": "magus.jpg",
+        "uri": "magus_sm.jpeg",
      },{
         "dateCompleted": "2020-12-26",
         "name": "The Waiting",
@@ -25,7 +25,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "02",
         "text": "The Priestess in a traditional deck. She bears arcane knowledge and keeps herself separate from the world. Don't let your fears keep you away from the joys of existence. There is value in retreat, in study, in deepening your understanding of how you want to walk the earth. But don't lose sight of living and breathing, stretching and becoming and connecting. You don't need to wait for anyone else to save you, not god, alien, nor apocalypse. Everything is already out there waiting for you. This card recognizes you may need stillness now but warns against stasis.",
-        "uri": "priestess.jpg",
+        "uri": "priestess_sm.jpeg",
      },{
         "dateCompleted": "2022-06-24",
         "name": "The Multiplier",
@@ -33,7 +33,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "03",
         "text": "The Empress in traditional tarot decks. Her focus is often on reproductive activities and a healthy bounteous abundance. This card's focus is reproduction, the role of those who can be pregnant, the risks and fears, desires and dreams. You may be undergoing a reproductive struggle or wrestling with traditional feminine roles within society or your relationship with femininity. Remember that your body is your own. You have every right to enjoy its bounty, feed it, touch it, modify it, challenge it, and claim it.",
-        "uri": "multiplier.jpg",
+        "uri": "multiplier_sm.jpeg",
      },{
         "dateCompleted": "2021-01-17",
         "name": "The Authority",
@@ -41,7 +41,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "04",
         "text": "The Emperor in traditional tarot. He is the patriarch. He is order. This painting reflects the God of my childhood: judgmental, ever-watching and demanding love as obedience and an abdication of the giver's self. Masculinity and leadership should not be anything like this horror. It should be gentleness - love that does not demand, but serves and returns respect for respect, joy for joy. The card indicates the influence of an authority in your life, good or bad. It may indicate better leadership is needed or push for you to fill that role. It may bring your attention to the structure and rules in your life. External hierarchies may be of importance.",
-        "uri": "emperor.jpg",
+        "uri": "emperor_sm.jpeg",
      },{
         "dateCompleted": "2021-05-13",
         "name": "The Guide",
@@ -49,7 +49,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "05",
         "text": "The traditional Hierophant. This card indicates a guide into the spiritual or philosophical. It may reflect traditions being passed on to you. It may be a time when you feel a calling to find greater meaning beyond your everyday. Or perhaps you are at an impasse and unsure how to move forward without trusted advice from a friend or a community leader, someone who has experienced the journey already, has passed over these waters, there and back again. The path forward may not be clear yet but many others have trod this path.",
-        "uri": "hierophant.jpg",
+        "uri": "hierophant_sm.jpeg",
      },{
         "dateCompleted": "2023-02-18",
         "name": "The Lover",
@@ -57,7 +57,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "06",
         "text": "The Lover is about relationships. It highlights the roles we play, the societal expectations that influence us and the ways that we navigate them. When painting this, I was thinking about Adam and Eve and the way their story imposes a framework for gender relations that is still in place today. I was thinking about Lilith and her successful rejection of those roles. The Tree of Good and Evil and its forbidden knowledge, there to tempt but also to grant full humanity. This is a moment to examine your place in the world and in your relationships. Do the roles you play and the path you walk serve you? Is it time to do something new, to become someone new? Or do you have knowledge to share with someone who has a decision to make? You can always choose to take wing and reject the predetermined course. Make your own mythos, see the world through your own lens. ",
-        "uri": "lover.jpg",
+        "uri": "lover_sm.jpeg",
      },{
         "dateCompleted": "2021-03-12",
         "name": "The Chariot",
@@ -65,7 +65,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "07",
         "text": "The Chariot is in motion. It's momentum and joyful victory in the world. You're out there getting things accomplished, feeling your capability and power. This is a great time to finish a lingering project or get started with one. Get out there and get it.",
-        "uri": "chariot.jpg",
+        "uri": "chariot_sm.jpeg",
      },{
         "dateCompleted": "2022-06-04",
         "name": "The Law",
@@ -73,7 +73,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "08",
         "text": "The Law is traditionally Justice. This card reflects on the state as maker and breaker of the rules and wielder of the sword of sanctioned violence. This card asks us what imbalances are at play in our lives. Where are we accepting what we could change? How are we using our power to benefit our communities? This card may indicate other entanglements with government such as a visit to the DMV, a community meeting to attend, or taxes or stickers to attend to.",
-        "uri": "the-law.jpg",
+        "uri": "law_sm.jpeg",
      },{
         "dateCompleted": "2021-04-18",
         "name": "The Hermit",
@@ -81,7 +81,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "09",
         "text": "The Hermit has traveled the lessons of the first half of the arcana. They retreat to listen within themselves. Self-knowledge and understanding of who we are, what we need, what we're feeling and why. Meditation and time spent quietly observing my awareness of my body and my emotions is some of the most valuable time I have spent. Meditation and dialogue with your inner self is a valuable tool for understanding the wounds you carry, for discovering what you need, and how to provide that so you can heal your emotional, inner self. Take time to understand what you need. Give yourself the gift of listening to you. If the time is right, allow yourself to process the things you've been carrying, the things you haven't let yourself know or feel because it was not yet time for it. Don't force yourself. You must trust yourself to take as much time as you need. This process is not done in a day or a season but you will know when it is time to do a little more.",
-        "uri": "hermit.jpg",
+        "uri": "hermit_sm.jpeg",
      },{
         "dateCompleted": "2022-11-13",
         "name": "The Wheel",
@@ -89,7 +89,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "10",
         "text": "The Wheel is a card of change. Some view it as seasonal changes or changes brought about by the hand of Fate. I painted this while thinking about the seemingly unending struggle between the forces of repression and freedom. Our society cycles through periods of authoritarian repression, usually taking rights away from minorities and women while empowering cruelty. Eventually the People seize the wheel and regain what is rightfully ours. The Wheel calls attention to our history and our future and how they are connected. The Wheel knows that nothing is forever and change is inevitable. Pulling the Wheel may mean you are experiencing the impacts of this change. It may be a reminder to grab the rope and pull, whether that is calling your senator, making a sign to carry, or supporting a friend who has been impacted. Every hand helps turn the wheel; we make our own luck. Drawing the wheel indicates that change is on the horizon.",
-        "uri": "wheel.jpg",
+        "uri": "wheel_sm.jpeg",
      },{
         "dateCompleted": "2021-01-28",
         "name": "The Animal",
@@ -97,7 +97,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "11",
         "text": "The Animal is traditionally Strength. This card asks you to be aware of your hungers, your impulses, your flashes of anger and instinctual fears. Becoming a mature person means mastering our impulses, emotions and instincts but that doesn't mean to suppress them, hide them, or deny them. Instead, it asks that we listen to that animal self deep within, listen to its warnings, its immediate understanding of the trustworthiness or safety of a situation. What it tells us about ourselves to want this thing or person. Then, to use our slower thought to understand how to respond, when to respond. It allows us to tame those impulses while learning what they know. To befriend that ancient part of ourselves while not being overpowered by it. The Animal may draw your attention to a desire to respond to something purely on instinct but warns against that impulse. It may caution of someone in your life who acts that way or brings your basest self to the surface. It may feel good in the moment to give in but it is rarely an advisable path.",
-        "uri": "strength.jpg",
+        "uri": "strength_sm.jpeg",
      },{
         "dateCompleted": "2020-12-13",
         "name": "The Inverted",
@@ -105,7 +105,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "12",
         "text": "The Inverted is traditionally the Hanged Man. They are in a position to see from a new or unusual perspective. The inverted may have an element of sacrifice, imprisonment, or involuntary waiting. The Inverted asks that you consider another perspective. It may draw your notice to the ways that you exist or should exist outside of 'normal' societal expectations.  Patience and reflection are going to be important, especially in cases where the querent is not yet ready to see. This card highlights allowing oneself to accept what you know so the period of immobility can end.",
-        "uri": "inverted_new.jpg",
+        "uri": "inverted_sm.jpeg",
      },{
         "dateCompleted": "2021-06-02",
         "name": "The Refiner",
@@ -113,7 +113,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "13",
         "text": "The Refiner is traditionally Death. Do not be alarmed, as physical death is rarely what this card wants to call your attention to. Instead, the Refiner takes the things you've outgrown, the things that no longer serve you, and enables you to walk away lighter. What burdens have you imposed on yourself? What guilt, what duties, what roles or titles are no longer worth keeping? Lay your packages as his feet and let the Refiner bury them for you. He's a skillful composter. The worms will help.",
-        "uri": "death.jpg",
+        "uri": "death_sm.jpeg",
      },{
         "dateCompleted": "2021-02-21",
         "name": "The Temperant",
@@ -121,7 +121,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "14",
         "text": "Traditionally Temperance, this card calls us to bring balance to our selves and our paths. Don't let the demands of one area of your life keep you from other important things. Restore or maintain your balance and harmony. Sometimes opposites can be complementary rather than adversary.",
-        "uri": "temperance.jpg",
+        "uri": "temperance_sm.jpeg",
      },{
         "dateCompleted": "2020-10-10",
         "name": "The Liberator",
@@ -129,7 +129,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "15",
         "text": "Traditionally The Devil, this card is about the things that bind us: addictions, negative relationships, habits that eat away at us and our time and steal our life from us. The liberator calls our attention to them so that we can set ourselves free. He is a breaker of chains. Consider what you would like to break free from and what needs to happen to free you.",
-        "uri": "devil.jpg",
+        "uri": "devil_sm.jpeg",
      },{
         "dateCompleted": "2021-04-10",
         "name": "The Realization",
@@ -137,7 +137,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "16",
         "text": "The Realization is traditionally the Tower. While it can mean catastrophic change outside your control, it also points to a shattering of old understandings of the world, giving way and allowing fresh growth and new understanding. An unexpected realization changes everything.  Don't be afraid; though leaving old systems of belief can be hard to do, it will free you to grow and learn and see more clearly than before. A protective tower can be a prison. It is time to move beyond it, accepting a new information or perspective.",
-        "uri": "tower.jpg",
+        "uri": "tower_sm.jpeg",
      },{
         "dateCompleted": "2020-09-19",
         "name": "The Star",
@@ -145,7 +145,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "17",
         "text": "The guidance of the star is faith, but do not trust middle men or intercessors. Access your moral center, your strength, and do not be willfully blind as you seek.",
-        "uri": "star.jpg",
+        "uri": "star_sm.jpeg",
      },{
         "dateCompleted": "2021-11-21",
         "name": "The Moon",
@@ -153,7 +153,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "18",
         "text": "The moon lights paths into our unconscious depths as well as our fears. Be brave, know yourself, accept yourself, and harness your creative self.",
-        "uri": "moon.jpg",
+        "uri": "moon_sm.jpeg",
      },{
         "dateCompleted": "2021-04-24",
         "name": "The Sun",
@@ -161,7 +161,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "19",
         "text": "Joyful and connected, the sun is Life unbounded and shared.",
-        "uri": "sun.jpg",
+        "uri": "sun_sm.jpeg",
      },{
         "dateCompleted": "2021-06-15",
         "name": "The Rebirth",
@@ -169,7 +169,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "20",
         "text": "The old self is shed. The New emerges, ready to complete the cycle of growth.",
-        "uri": "rebirth.jpg",
+        "uri": "judgement_sm.jpeg",
      },{
         "dateCompleted": "2022-11-27",
         "name": "The Whole",
@@ -177,7 +177,7 @@ export const tarotCardJson = [
         "tag": "major",
         "tarot-number": "21",
         "text": "The Earth is the whole of our universe. Our interconnections are infinite and precious. Those who block efforts to stop warming while they talk about saving the human race by moving to Mars with their friends are not our allies. They do not care about individual lives. They do not empathize.",
-        "uri": "universe.jpg",
+        "uri": "universe_sm.jpeg",
      },{
         "dateCompleted": "2020-11-17",
         "name": "Ace of Fire",
@@ -185,7 +185,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "01",
         "text": "Unlimited creative and generative energies.",
-        "uri": "fire-1.jpg",
+        "uri": "fire-1_sm.jpeg",
      },{
         "dateCompleted": "2023-04-15",
         "name": "Two of Fire",
@@ -193,7 +193,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "02",
         "text": "Holding aloft the flame of hope, ambition, desire and creation. Thinking about the great deeds, the impossible accomplishments. Experiencing the hesitation of being weighed against what has already been done, offset by the determination to take your place.",
-        "uri": "fire-2.jpg",
+        "uri": "fire-2_sm.jpeg",
      },{
         "dateCompleted": "2021-03-18",
         "name": "Three of Fire",
@@ -201,7 +201,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "03",
         "text": "The emergence of the first plants in the Spring. The first manifestations of a creative process or cycle.",
-        "uri": "fire-3.jpg",
+        "uri": "fire-3_sm.jpeg",
      },{
         "dateCompleted": "2021-02-11",
         "name": "Four of Fire",
@@ -209,7 +209,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "04",
         "text": "Creation completed. The void is replaced by earth, water, air, and fire. Leaving the garden is inevitable. Prepare for expulsion.",
-        "uri": "fire-4.jpg",
+        "uri": "fire-4_sm.jpeg",
      },{
         "dateCompleted": "2023-01-21",
         "name": "Five of Fire",
@@ -217,7 +217,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "05",
         "text": "A fiery lake of resolve. Determination. The physical sensation of strength and the warmth of self-knowledge, the fire in your chest that illuminates the path ahead. Picking yourself up again because you have more to do and you won't be bested by this. This isn't where you end, where you are forgotten. This is how you become a fucking immortal.",
-        "uri": "fire-5.jpg",
+        "uri": "fire-5_sm.jpeg",
      },{
         "dateCompleted": "2022-11-29",
         "name": "Six of Fire",
@@ -225,7 +225,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "06",
         "text": "Victory. All that energy you gathered and paid out and maintained come back in a joyous riot of color. Enjoy your celebration. You've earned this.",
-        "uri": "fire-6.jpg",
+        "uri": "fire-6_sm.jpeg",
      },{
         "dateCompleted": "2022-12-28",
         "name": "Seven of Fire",
@@ -233,7 +233,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "07",
         "text": "The fire that burns all followed by renewal. Some changes require the destruction of what came before to nourish its growth and to free its seeds.",
-        "uri": "forestfire.jpg",
+        "uri": "fire-7_sm.jpeg",
      },{
         "dateCompleted": "2021-03-15",
         "name": "Eight of Fire",
@@ -241,7 +241,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "08",
         "text": "Actual or perceived velocity of travel through space or time. Blur of speed that life takes on when our days stretch on identically through age or conditions like lock down for a pandemic or waiting on external conditions to change.",
-        "uri": "fire-8.jpeg",
+        "uri": "fire-8_sm.jpeg",
      },{
         "dateCompleted": "2021-08-22",
         "name": "Nine of Fire",
@@ -249,7 +249,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "09",
         "text": "The struggle has been a long one. Though the path has been one of movement both forward and back, progress is unmistakable. It may be that the end is near or perhaps it is time to pass the work on to the next courageous and tenacious person.",
-        "uri": "fire-9.jpg",
+        "uri": "fire-9_sm.jpeg",
      },{
         "dateCompleted": "2021-10-09",
         "name": "Ten of Fire",
@@ -257,7 +257,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "10",
         "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst and don’t forget the value of mutual aid.",
-        "uri": "fire-10.jpg",
+        "uri": "fire-10_sm.jpeg",
      },{
         "dateCompleted": "2022-09-04",
         "name": "Child of Fire",
@@ -265,7 +265,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "11",
         "text": "The child of fire is growth and potential not yet fulfilled. They are full of the joy of a thousand paths yet unexplored and the desire to become themselves.",
-        "uri": "fire-child.jpg",
+        "uri": "fire-child_sm.jpeg",
      },{
         "dateCompleted": "2021-11-29",
         "name": "Youth of Fire",
@@ -273,7 +273,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "12",
         "text": "The youth of fire is a creator of change. They are courageous in the face of old wrongs; speaking up, holding the front line, and making space for a wider movement to swell.",
-        "uri": "steppingintothelight.jpg",
+        "uri": "fire-youth_sm.jpeg",
      },{
         "dateCompleted": "2021-07-31",
         "name": "Adult of Fire",
@@ -281,7 +281,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "13",
         "text": "The Adult of Fire brings new ideas into the world, making their marks as the neolithic painters did. They harness the human creative fire of imagination and the desire to leave some of themselves behind.",
-        "uri": "fire-13-adult.jpg",
+        "uri": "fire-adult_sm.jpeg",
      },{
         "dateCompleted": "2020-10-11",
         "name": "Elder of Fire",
@@ -289,7 +289,7 @@ export const tarotCardJson = [
         "tag": "fire",
         "tarot-number": "14",
         "text": "The Elders hold a vast experience. At a time when new strategies are deeply needed, accessing our ancestral human knowledge and our most experienced guides may be the best way to move forward.",
-        "uri": "fire-elder.jpg",
+        "uri": "fire-elder_sm.jpeg",
      },{
         "dateCompleted": "2023-01-01",
         "name": "Ace of Air",
@@ -297,7 +297,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "01",
         "text": "The Ace of Air is the font of thought, of ideas, of conceptualizations and the abstract. Use this opportunity to immerse yourself in study or research. Take on an intellectual challenge.",
-        "uri": "air-1.jpg",
+        "uri": "air-1_sm.jpeg",
      },{
         "dateCompleted": "2021-12-05",
         "name": "Two of Air",
@@ -305,7 +305,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "02",
         "text": "Choices. Contrasting ideas.",
-        "uri": "air-2.jpg",
+        "uri": "air-2_sm.jpeg",
      },{
         "dateCompleted": "2023-01-16",
         "name": "Three of Air",
@@ -313,7 +313,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "03",
         "text": "What you once knew you knew, you now know better. What once seemed simple has unforseen depths. Travel onward! This is a journey of the self.",
-        "uri": "tunnel.jpg",
+        "uri": "air-3_sm.jpeg",
      },{
         "dateCompleted": "2021-07-12",
         "name": "Four of Air",
@@ -321,7 +321,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "04",
         "text": "The mind is at rest, comfortable and stable for the short term. Gather energy to move into new growth.",
-        "uri": "air-4b.jpg",
+        "uri": "air-4_sm.jpeg",
      },{
         "dateCompleted": "2021-10-22",
         "name": "Five of Air",
@@ -329,7 +329,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "05",
         "text": "When new concepts and philosophies are encountered, the mind reconsiders what it knows and gains skill and confidence.",
-        "uri": "air-5.jpg",
+        "uri": "air-5_sm.jpeg",
      },{
         "dateCompleted": "2021-11-13",
         "name": "Six of Air",
@@ -337,7 +337,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "06",
         "text": "The mind interconnected and aloft. Potential travel or the results of study and mental effort come to fruition.",
-        "uri": "air-6.jpg",
+        "uri": "air-6_sm.jpeg",
      },{
         "dateCompleted": "2022-09-10",
         "name": "Seven of Air",
@@ -345,7 +345,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "07",
         "text": "Misinformation, disinformation. Manipulation via emotion and reframing of fact, or completely making up new 'facts'. Are you being manipulated? Learn about logical fallacies and ask yourself what motivates the source of this information. How badly do you want it to be true? Are you fooling yourself?",
-        "uri": "air-7.jpg",
+        "uri": "air-7_sm.jpeg",
      },{
         "dateCompleted": "2021-01-07",
         "name": "Eight of Air",
@@ -353,7 +353,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "08",
         "text": "Interference with ideas or processes important to our core ideas and assumptions. A shift in what seems possible.",
-        "uri": "air-8.jpg",
+        "uri": "air-8_sm.jpeg",
      },{
         "dateCompleted": "2021-06-30",
         "name": "Nine of Air",
@@ -361,7 +361,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "09",
         "text": "Holding fast to values and beliefs, despite challenging circumstances or societal pressure.",
-        "uri": "air-9.jpg",
+        "uri": "air-9_sm.jpeg",
      },{
         "dateCompleted": "2021-06-19",
         "name": "Ten of Air",
@@ -369,7 +369,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "10",
         "text": "Ten white flags of surrender. Sometimes enough is enough and letting go is the only thing left to do. At least for now.",
-        "uri": "air-10.jpg",
+        "uri": "air-10_sm.jpeg",
      },{
         "dateCompleted": "2021-10-21",
         "name": "Child of Air",
@@ -377,7 +377,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "11",
         "text": "The child of air is full of wild imagings. Creatures of reality merge with those of fancy. The mind inventing forms and experimenting with possibilities.",
-        "uri": "child-air.jpg",
+        "uri": "child-air_sm.jpeg",
      },{
         "dateCompleted": "2021-09-16",
         "name": "Youth of Air",
@@ -385,7 +385,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "12",
         "text": "The youth of air examines what they know, what they've been told, and probes the gray areas lying between black and white ideas. Question everything.",
-        "uri": "youth-air.jpg",
+        "uri": "youth-air_sm.jpeg",
      },{
         "dateCompleted": "2020-09-26",
         "name": "Adult of Air",
@@ -393,7 +393,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "13",
         "text": "The adult of air is a fully formed mind. Like a space station or a structure on a gas giant in the distant future, it is complex, logical and vast. It can be put to use in the service of humanity or serve merely ego.",
-        "uri": "air-adult.jpg",
+        "uri": "air-adult_sm.jpeg",
      },{
         "dateCompleted": "2022-01-08",
         "name": "Elders of Air",
@@ -401,7 +401,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "14",
         "text": "The elders of air hold ancestral knowledge. While not gone, they are not easy to access.",
-        "uri": "air-elders.jpg",
+        "uri": "air-elders_sm.jpeg",
      },{
         "dateCompleted": "2021-10-19",
         "name": "Ace of Water",
@@ -409,7 +409,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "01",
         "text": "Unlimited emotional well, empathy, joy, connection, belief in our collective possibilities. Make the most of this brief emotional bandwidth.",
-        "uri": "water-1.jpg",
+        "uri": "water-1_sm.jpeg",
      },{
         "dateCompleted": "2021-05-12",
         "name": "Two of Water",
@@ -417,7 +417,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "02",
         "text": "Emotional connection. Be real, be vulnerable; see and be seen.",
-        "uri": "water-2.jpg",
+        "uri": "water-2_sm.jpeg",
      },{
         "dateCompleted": "2022-01-03",
         "name": "Three of Water",
@@ -425,7 +425,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "03",
         "text": "Sharing our journey with one another spreads our joys and dilutes our pains. We grow when we empathize and listen to each other's stories and perspectives.",
-        "uri": "water-3.jpg",
+        "uri": "water-3_sm.jpeg",
      },{
         "dateCompleted": "2022-05-12",
         "name": "Four of Water",
@@ -433,7 +433,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "04",
         "text": "The four is about a lack of motion. It's coping mechanisms that protect us when we need them but sometimes return when we don't. It's losing access to our ability to process emotion, to become vulnerable, feel empathy, or heal. Let the four be a stop, a pause when needed. Do not stay longer then you must.",
-        "uri": "water-4.jpg",
+        "uri": "water-4_sm.jpeg",
      },{
         "dateCompleted": "2022-03-07",
         "name": "Five of Water",
@@ -441,7 +441,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "05",
         "text": "Processing trauma in order to heal. Uncovering old emotional wounds or facing fresh ones, forgiving where its warranted and letting go when possible.",
-        "uri": "water-5.jpg",
+        "uri": "water-5_sm.jpeg",
      },{
         "dateCompleted": "2021-11-13",
         "name": "Six of Water",
@@ -449,7 +449,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "06",
         "text": "Pleasure and joy emerge after the emotional work of prior cards. Six hot springs pour from the earth bearing healing minerals and invite a soak that leaves our emotional selves open and relaxed.",
-        "uri": "water-6.jpg",
+        "uri": "water-6_sm.jpeg",
      },{
         "dateCompleted": "2023-05-21",
         "name": "Seven of Water",
@@ -457,7 +457,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "07",
         "text": "Community care and action. Fear separates people and if there are no connection points, the fear can spread and grow out of hand. An open society must not allow the arsonists to thrive.",
-        "uri": "water-7.jpg",
+        "uri": "water-7_sm.jpeg",
      },{
         "dateCompleted": "2022-02-23",
         "name": "Eight of Water",
@@ -465,7 +465,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "08",
         "text": "Corruption. Rot from within poisoning the whole. The waters keep rising but those with institutional power have other concerns. Change only seems possible via a revolution of thought from below. There's a lot noise to get through.",
-        "uri": "morass.jpg",
+        "uri": "water-8_sm.jpeg",
      },{
         "dateCompleted": "2022-10-21",
         "name": "Nine of Water",
@@ -473,7 +473,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "09",
         "text": "Emotional isolation at a societal scale. The land is parched. Reaching out and connecting is the only way forward.",
-        "uri": "water-9.jpg",
+        "uri": "water-9_sm.jpeg",
      },{
         "dateCompleted": "2022-02-27",
         "name": "Ten of Water",
@@ -481,7 +481,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "10",
         "text": "Collective Joy. Ephemeral experiences of wholeness and unity often felt at concerts and festivals. Remember this feeling and return to it when needed.",
-        "uri": "water-10.jpg",
+        "uri": "water-10_sm.jpeg",
      },{
         "dateCompleted": "2020-10-03",
         "name": "Child of Water",
@@ -489,7 +489,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "11",
         "text": "The child of water holds uncertainty and potential. Dreaming and sensing and hoping. Alone with themselves, creating themselves.",
-        "uri": "water-child.jpg",
+        "uri": "water-child_sm.jpeg",
      },{
         "dateCompleted": "2021-05-15",
         "name": "Youth of Water",
@@ -497,7 +497,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "12",
         "text": "The youth of water is passion and lust, an alchemical cocktail of desire to live and be and become. To experience and connect. Nothing is still or settled, all is water as fire and passion.",
-        "uri": "water-youth.jpg",
+        "uri": "water-youth_sm.jpeg",
      },{
         "dateCompleted": "2021-09-25",
         "name": "Adult of Water",
@@ -505,7 +505,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "13",
         "text": "The adult of water is self aware, stable, and full of compassion for self and community.",
-        "uri": "water-13-adult.jpg",
+        "uri": "water-adult_sm.jpeg",
      },{
         "dateCompleted": "2021-08-21",
         "name": "Elder of Water",
@@ -513,7 +513,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "14",
         "text": "The elder of water has attained universal love and feels connection and compassion for all.",
-        "uri": "elder-water.jpg",
+        "uri": "elder-water_sm.jpeg",
      },{
         "dateCompleted": "2022-01-25",
         "name": "Ace of Earth",
@@ -521,7 +521,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "01",
         "text": "The Ace of Earth represents boundless physical possibility. Image heavily inspired by the statues found at Çatalhöyük and the idea that they represent agricultural matriarchs, gleaned from The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow.",
-        "uri": "earth-ace.jpg",
+        "uri": "earth-ace_sm.jpeg",
      },{
         "dateCompleted": "2021-05-29",
         "name": "Two of Earth",
@@ -529,7 +529,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "02",
         "text": "The two is about decisions. Is the grass greener on the other side?",
-        "uri": "earth-2.jpg",
+        "uri": "earth-2_sm.jpeg",
      },{
         "dateCompleted": "2023-03-20",
         "name": "Three of Earth",
@@ -537,7 +537,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "03",
         "text": "Creating a new vision of the worlds possible to us and sharing it with others. Transformation starts with what we can imagine together.",
-        "uri": "earth-3.jpg",
+        "uri": "earth-3_sm.jpeg",
      },{
         "dateCompleted": "2021-07-22",
         "name": "Four of Earth",
@@ -545,7 +545,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "04",
         "text": "The four is a comfortable place. Warm and established, perfect for growing at a comfortable pace but ultimately to be left behind when ready.",
-        "uri": "earth-4.jpg",
+        "uri": "earth-4_sm.jpeg",
      },{
         "dateCompleted": "2022-04-02",
         "name": "Five of Earth",
@@ -553,7 +553,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "05",
         "text": "Disruption. The stability of four is replaced with upheaval. Now is the time to seek help and provide it.",
-        "uri": "earth-5.jpg",
+        "uri": "earth-5_sm.jpeg",
      },{
         "dateCompleted": "2026-06-24",
         "name": "Six of Earth",
@@ -561,7 +561,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "06",
         "text": "Growing conditions were not perfect but growth has taken root anyway. This isn't your last struggle but you have proof you are doing the thing and seeing results. Celebrate your efforts and those who helped along the way.",
-        "uri": "6_earth.jpeg",
+        "uri": "earth-6_sm.jpeg",
      },{
         "dateCompleted": "2022-04-29",
         "name": "Seven of Earth",
@@ -569,7 +569,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "07",
         "text": "Human Resources. The commodification of all earthly resources including the people. The double-bind of being in a society that expects for those above to exploit us while we take advantage of those below. We are not separate.",
-        "uri": "earth-7.jpg",
+        "uri": "earth-7_sm.jpeg",
      },{
         "dateCompleted": "2021-04-22",
         "name": "Eight of Earth",
@@ -577,7 +577,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "08",
         "text": "A lifetime's work completed. Generational change. Death and continuation. Every piece has been put into place as intended and desired, yet somehow it no longer feels right. The mood is quarter or midlife crisis.",
-        "uri": "earth-8.jpg",
+        "uri": "earth-8_sm.jpeg",
      },{
         "dateCompleted": "2021-02-26",
         "name": "Nine of Earth",
@@ -585,7 +585,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "09",
         "text": "The peak of success and joyful indulgence. A moment of celebration. You did it.",
-        "uri": "earth-9.jpg",
+        "uri": "earth-9_sm.jpeg",
      },{
         "dateCompleted": "2020-10-19",
         "name": "Ten of Earth",
@@ -593,7 +593,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "10",
         "text": "Destructive wealth that values only profit. Short term profit endangers long term health.",
-        "uri": "earth-10.jpg",
+        "uri": "earth-10_sm.jpeg",
      },{
         "dateCompleted": "2022-04-24",
         "name": "Child of Earth",
@@ -601,7 +601,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "11",
         "text": "The child of earth is at home. They are trusting, grounded and at peace. When the time comes, they will know what to do.",
-        "uri": "earth-child.jpg",
+        "uri": "earth-child_sm.jpeg",
      },{
         "dateCompleted": "2022-10-22",
         "name": "Youth of Earth",
@@ -609,7 +609,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "12",
         "text": "The youth of earth is industrious and productive but remains in harmony with their world. You will know where they have been at work, improving, beautifying or just caring.",
-        "uri": "earth-youth.jpg",
+        "uri": "earth-youth_sm.jpeg",
      },{
         "dateCompleted": "2020-11-22",
         "name": "Adult of Earth",
@@ -617,7 +617,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "13",
         "text": "The adult of earth is the planet's own self-generation. Tectonic plates are subsumed and fresh lava emerges. The eternal planet witnesses birth and death of life forms inumerable.",
-        "uri": "earth-adult.jpg",
+        "uri": "earth-adult_sm.jpeg",
      },{
         "dateCompleted": "2021-09-08",
         "name": "Elders of Earth",
@@ -625,6 +625,6 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "14",
         "text": "The elders of earth care for the world and its inhabitants and interconnections. They work to return the living planet to health.",
-        "uri": "elder-earth.jpg",
+        "uri": "elder-earth_sm.jpeg",
      }
 ]
