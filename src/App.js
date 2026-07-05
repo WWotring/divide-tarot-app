@@ -4,6 +4,7 @@ import "./App.css";
 import "./Modal.css";
 import Modal from "react-modal/lib/components/Modal";
 import { AiOutlineClose } from "react-icons/ai";
+import { getModalImageStyle } from "./imageSizing";
 
 
 function App() {
@@ -42,11 +43,12 @@ function App() {
     else { return <div className="modal-title">{card.name}</div>}
   }
 
-  function openModal(card) { 
+  function openModal(card) {
     setIsOpen(true)
+    const imageStyle = getModalImageStyle(window.innerWidth, window.innerHeight);
     let imageChild = <div className="modal-div">
-      <img className="cardImage" src={uriPrefix + card.uri}  alt={card.uri}/>
-      
+      <img className="cardImage" style={imageStyle} src={uriPrefix + card.uri}  alt={card.uri}/>
+
       <div className="card-details-container">
         {getTitle(card)}
         <div className="modal-created-date">{"Date completed: "+card.dateCompleted}</div>
