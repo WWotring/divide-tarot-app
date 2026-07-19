@@ -1,0 +1,65 @@
+.hamburgerButton {
+  background: none;
+  border: none;
+  font-size: 1.8em;
+  line-height: 0;
+  cursor: pointer;
+  color: inherit;
+  padding: 4px;
+}
+
+.navOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 999;
+}
+
+.navPanel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: min(250px, 80vw);
+  background: rgb(230, 224, 224);
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+  transform: translateX(-100%);
+  transition: transform 0.25s ease;
+  z-index: 1000;
+  font-family: Cinzel;
+  box-sizing: border-box;
+  padding-top: 60px;
+}
+
+.navPanel-open {
+  transform: translateX(0);
+}
+
+.navCloseButton {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: none;
+  border: none;
+  font-size: 1.4em;
+  line-height: 0;
+  cursor: pointer;
+}
+
+.navLinks {
+  display: flex;
+  flex-direction: column;
+}
+
+.navLinks a {
+  padding: 16px 24px;
+  font-family: Playfair_Display;
+  font-size: 1.2em;
+  color: inherit;
+  text-decoration: none;
+  text-align: left;
+}
+
+.navLinks a:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
