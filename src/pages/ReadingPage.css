@@ -1,0 +1,72 @@
+.readingTopBar {
+  display: flex;
+  padding: 10px;
+}
+
+.readingPage {
+  text-align: center;
+  padding: 20px;
+}
+
+.drawButton {
+  font-family: Cinzel;
+  font-size: 1.2em;
+  padding: 10px 24px;
+  margin: 16px;
+  cursor: pointer;
+}
+
+.reading-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 20px;
+}
+
+.reading-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 260px;
+}
+
+.reading-card-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: default;
+}
+
+.reading-card-frame img.readingCardImage {
+  width: 220px;
+  height: auto;
+  margin: 4px;
+}
+
+.reading-card-text {
+  padding-top: 10px;
+  font-size: 1em;
+  font-family: Playfair_Display;
+  text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+  .reading-row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .reading-card {
+    width: 90vw;
+    max-width: 320px;
+  }
+
+  .reading-card-frame img.readingCardImage {
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+  }
+}

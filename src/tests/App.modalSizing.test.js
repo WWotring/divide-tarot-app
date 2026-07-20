@@ -1,7 +1,12 @@
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import App from './App';
-import { MOBILE_IMAGE_MAX_HEIGHT_RATIO } from './imageSizing';
+import { MemoryRouter } from 'react-router-dom';
+import App from '../App';
+import { MOBILE_IMAGE_MAX_HEIGHT_RATIO } from '../helpers/imageSizing';
+
+function renderApp() {
+  return render(<MemoryRouter><App /></MemoryRouter>);
+}
 
 function setViewport(width, height) {
   window.innerWidth = width;
@@ -25,7 +30,7 @@ describe('tarot card modal image sizing', () => {
   test('shrinks the modal image on a phone-sized viewport so text stays visible', async () => {
     setViewport(375, 667);
     const user = userEvent.setup();
-    render(<App />);
+    renderApp();
 
     await user.click(screen.getByText(/The Fool/));
 
@@ -37,7 +42,7 @@ describe('tarot card modal image sizing', () => {
   test('shrinks the modal image on a tablet-sized viewport so text stays visible', async () => {
     setViewport(768, 1024);
     const user = userEvent.setup();
-    render(<App />);
+    renderApp();
 
     await user.click(screen.getByText(/The Fool/));
 
@@ -48,7 +53,7 @@ describe('tarot card modal image sizing', () => {
   test('leaves the modal image unconstrained on a desktop-sized viewport', async () => {
     setViewport(1440, 900);
     const user = userEvent.setup();
-    render(<App />);
+    renderApp();
 
     await user.click(screen.getByText(/The Fool/));
 
