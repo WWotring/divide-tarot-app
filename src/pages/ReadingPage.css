@@ -60,13 +60,13 @@
   }
 
   .reading-card {
-    width: 90vw;
-    max-width: 320px;
+    width: 100%;
   }
 
   .reading-card-frame img.readingCardImage {
-    width: 100%;
-    max-width: 280px;
+    width: 96%;
     height: auto;
+    border-right: 2px;
+    border-left: 2px;
   }
 }
