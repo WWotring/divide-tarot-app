@@ -29,6 +29,7 @@
   font-family: Cinzel;
   box-sizing: border-box;
   padding-top: 60px;
+  contain: layout;
 }
 
 .navPanel-open {
