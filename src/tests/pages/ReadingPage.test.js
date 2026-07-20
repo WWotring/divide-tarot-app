@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter } from 'react-router-dom';
-import ReadingPage from './ReadingPage';
+import ReadingPage from '../../pages/ReadingPage';
 
 function renderReadingPage() {
   return render(<MemoryRouter><ReadingPage /></MemoryRouter>);

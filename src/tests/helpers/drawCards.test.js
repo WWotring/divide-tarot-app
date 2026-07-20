@@ -1,4 +1,4 @@
-import { drawRandomCards } from './drawCards';
+import { drawRandomCards } from '../../helpers/drawCards';
 
 const deck = Array.from({ length: 78 }, (_, i) => ({ uri: `card-${i}.jpeg`, name: `Card ${i}` }));
 

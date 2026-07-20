@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter } from 'react-router-dom';
-import App from './App';
-import { MOBILE_IMAGE_MAX_HEIGHT_RATIO } from './imageSizing';
+import App from '../App';
+import { MOBILE_IMAGE_MAX_HEIGHT_RATIO } from '../helpers/imageSizing';
 
 function renderApp() {
   return render(<MemoryRouter><App /></MemoryRouter>);

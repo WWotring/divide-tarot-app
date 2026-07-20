@@ -1,4 +1,4 @@
-import { getModalImageStyle, MOBILE_BREAKPOINT, MOBILE_IMAGE_MAX_HEIGHT_RATIO } from './imageSizing';
+import { getModalImageStyle, MOBILE_BREAKPOINT, MOBILE_IMAGE_MAX_HEIGHT_RATIO } from '../../helpers/imageSizing';
 
 describe('getModalImageStyle', () => {
   test('applies no size constraint on desktop-width viewports', () => {

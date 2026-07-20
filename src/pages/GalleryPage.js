@@ -2,8 +2,9 @@ import React, {useState, useEffect} from "react";
 import { tarotCardJson } from "../data/cardJson";
 import Modal from "react-modal/lib/components/Modal";
 import { AiOutlineClose } from "react-icons/ai";
-import { getModalImageStyle } from "../imageSizing";
+import { getModalImageStyle } from "../helpers/imageSizing";
 import NavMenu from "../components/NavMenu";
+import "./Modal.css";
 
 function GalleryPage() {
   let uriPrefix = "images/"

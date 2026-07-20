@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { tarotCardJson } from "../data/cardJson";
-import { drawRandomCards } from "../drawCards";
+import { drawRandomCards } from "../helpers/drawCards";
 import NavMenu from "../components/NavMenu";
 import "./ReadingPage.css";
 

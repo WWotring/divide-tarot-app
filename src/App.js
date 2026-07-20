@@ -1,6 +1,5 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import "./Modal.css";
 import GalleryPage from "./pages/GalleryPage";
 import ReadingPage from "./pages/ReadingPage";
 
