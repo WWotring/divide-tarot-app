@@ -69,4 +69,12 @@
     border-right: 2px;
     border-left: 2px;
   }
+
+  .reading-card-text {
+  padding-top: 8px;
+  font-size: 1em;
+  font-family: Playfair_Display;
+  text-align: left;
+  width: 96%
+}
 }
