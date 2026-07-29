@@ -95,7 +95,7 @@ function GalleryPage() {
             tarotCardJson.map(card =>{
               return card.tag === "major" ? (
               <div className="card-wrapper" onClick={()=> openModal(card)}>
-                <img src={uriPrefix + card.uri}  alt={card.uri}/>
+                <img src={uriPrefix + card.uri}  alt={card.uri} loading="lazy"/>
                 <div className="title">{card["tarot-number"]+" "+card.name}</div>
               </div>) : null
             })
