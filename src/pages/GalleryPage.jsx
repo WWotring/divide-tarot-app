@@ -59,7 +59,6 @@ function GalleryPage() {
 
     setModalChild(imageChild);
   }
-
   if (process.env.NODE_ENV !== 'test') Modal.setAppElement('#root');
 
   return (

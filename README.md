@@ -4,7 +4,7 @@ This project uses Vite to build.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run:
 
 ### `npm run serve`
 
