@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^6.9.1",
-    "@testing-library/react": "^16.3.1",
     "@testing-library/user-event": "^14.6.1",
     "loader": "^2.1.1",
     "react": "^19.2.3",
@@ -12,15 +10,14 @@
     "react-icons": "^5.5.0",
     "react-modal": "^3.16.3",
     "react-router-dom": "^6.30.4",
-    "react-scripts": "5.0.1",
     "web-vitals": "^5.1.0",
     "webfont": "^11.2.26"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "vite",
+    "build": "vite build",
+    "test": "vitest",
+    "serve": "vite preview"
   },
   "eslintConfig": {
     "extends": [
@@ -39,5 +36,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "@vitejs/plugin-react": "^6.0.4",
+    "jsdom": "^29.1.1",
+    "vite": "^8.1.5",
+    "vitest": "^4.1.10"
   }
 }

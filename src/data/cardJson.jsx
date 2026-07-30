@@ -99,7 +99,7 @@ export const tarotCardJson = [
         "text": "The Animal is traditionally Strength. This card asks you to be aware of your hungers, your impulses, your flashes of anger and instinctual fears. Becoming a mature person means mastering our impulses, emotions and instincts but that doesn't mean to suppress them, hide them, or deny them. Instead, it asks that we listen to that animal self deep within, listen to its warnings, its immediate understanding of the trustworthiness or safety of a situation. What it tells us about ourselves to want this thing or person. Then, to use our slower thought to understand how to respond, when to respond. It allows us to tame those impulses while learning what they know. To befriend that ancient part of ourselves while not being overpowered by it. The Animal may draw your attention to a desire to respond to something purely on instinct but warns against that impulse. It may caution of someone in your life who acts that way or brings your basest self to the surface. It may feel good in the moment to give in but it is rarely an advisable path.",
         "uri": "strength_sm.jpeg",
      },{
-        "dateCompleted": "2020-12-13",
+        "dateCompleted": "2025-12-30",
         "name": "The Inverted",
         "size": "22x28",
         "tag": "major",
@@ -227,7 +227,7 @@ export const tarotCardJson = [
         "text": "Victory. All that energy you gathered and paid out and maintained come back in a joyous riot of color. Enjoy your celebration. You've earned this.",
         "uri": "fire-6_sm.jpeg",
      },{
-        "dateCompleted": "2022-12-28",
+        "dateCompleted": "2025-12-14",
         "name": "Seven of Fire",
         "size": "18x24",
         "tag": "fire",
@@ -315,7 +315,7 @@ export const tarotCardJson = [
         "text": "What you once knew you knew, you now know better. What once seemed simple has unforseen depths. Travel onward! This is a journey of the self.",
         "uri": "air-3_sm.jpeg",
      },{
-        "dateCompleted": "2021-07-12",
+        "dateCompleted": "2026-01-18",
         "name": "Four of Air",
         "size": "18x24",
         "tag": "air",
