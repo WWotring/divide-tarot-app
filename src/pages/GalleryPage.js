@@ -60,7 +60,7 @@ function GalleryPage() {
     setModalChild(imageChild);
   }
 
-  if (process.env.NODE_ENV !== 'test') ReactModal.setAppElement('#app');
+  Modal.setAppElement("#root")
 
   return (
     <>
