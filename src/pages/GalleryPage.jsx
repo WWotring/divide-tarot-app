@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import { tarotCardJson } from "../data/cardJson";
-import Modal from "react-modal/lib/components/Modal";
+import Modal from "react-modal";
 import { AiOutlineClose } from "react-icons/ai";
 import { getModalImageStyle } from "../helpers/imageSizing";
 import NavMenu from "../components/NavMenu";
@@ -60,7 +60,7 @@ function GalleryPage() {
     setModalChild(imageChild);
   }
 
-  if (process.env.NODE_ENV !== 'test') ReactModal.setAppElement('#app');
+  if (process.env.NODE_ENV !== 'test') Modal.setAppElement('#root');
 
   return (
     <>
@@ -95,7 +95,7 @@ function GalleryPage() {
             tarotCardJson.map(card =>{
               return card.tag === "major" ? (
               <div className="card-wrapper" onClick={()=> openModal(card)}>
-                <img src={uriPrefix + card.uri}  alt={card.uri}/>
+                <img src={uriPrefix + card.uri}  alt={card.uri} loading="lazy"/>
                 <div className="title">{card["tarot-number"]+" "+card.name}</div>
               </div>) : null
             })
@@ -111,7 +111,7 @@ function GalleryPage() {
             tarotCardJson.map(card =>{
               return card.tag === "fire" ? (
               <div className="card-wrapper" onClick={()=> openModal(card)}>
-                <img src={uriPrefix + card.uri} alt={card.uri}/>
+                <img src={uriPrefix + card.uri} alt={card.uri} loading="lazy"/>
                 <div className="title">{card.name}</div>
               </div>) : null
             })
@@ -127,7 +127,7 @@ function GalleryPage() {
             tarotCardJson.map(card =>{
               return card.tag === "air" ? (
               <div className="card-wrapper" onClick={()=> openModal(card)}>
-                <img src={uriPrefix + card.uri} alt={card.uri}/>
+                <img src={uriPrefix + card.uri} alt={card.uri} loading="lazy"/>
                 <div className="title">{card.name}</div>
               </div>) : null
             })
@@ -143,7 +143,7 @@ function GalleryPage() {
             tarotCardJson.map(card =>{
               return card.tag === "water" ? (
               <div className="card-wrapper" onClick={()=> openModal(card)}>
-                <img src={uriPrefix + card.uri} alt={card.uri}/>
+                <img src={uriPrefix + card.uri} alt={card.uri} loading="lazy"/>
                 <div className="title">{card.name}</div>
               </div>) : null
             }
@@ -161,7 +161,7 @@ function GalleryPage() {
           tarotCardJson.map(card =>{
             return card.tag === "earth" ? (
             <div className="card-wrapper" onClick={()=> openModal(card)}>
-              <img src={uriPrefix + card.uri} alt={card.uri}/>
+              <img src={uriPrefix + card.uri} alt={card.uri} loading="lazy"/>
               <div className="title">{card.name}</div>
             </div>) : null
           })
@@ -175,7 +175,7 @@ function GalleryPage() {
           sortedArray.map(card =>{
             return (
             <div className="card-wrapper" onClick={()=> openModal(card)}>
-              <img src={uriPrefix + card.uri} alt={card.uri}/>
+              <img src={uriPrefix + card.uri} alt={card.uri} loading="lazy"/>
               <div className="title">{card.name}</div>
             </div>)
           })
