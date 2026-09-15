@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
+import AboutPage from "./pages/AboutPage";
 import GalleryPage from "./pages/GalleryPage";
 import ReadingPage from "./pages/ReadingPage";
 
@@ -11,6 +12,7 @@ function App() {
       </header>
       <Routes>
         <Route path="/" element={<GalleryPage />} />
+        <Route path="/about" element={<AboutPage />} />
         <Route path="/reading" element={<ReadingPage />} />
       </Routes>
     </div>

@@ -1,0 +1,13 @@
+@font-face {
+font-family: Playfair_Display;
+src: url("../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf");
+}
+.aboutTopBar {
+  display: flex;
+  padding: 10px;
+}
+.about-text {
+    font-family: Playfair_Display;
+    padding: 20px;
+    text-align: left;
+}

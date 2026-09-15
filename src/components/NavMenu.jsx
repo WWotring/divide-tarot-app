@@ -22,6 +22,7 @@ function NavMenu() {
         </button>
         <nav className="navLinks">
           <Link to="/" onClick={closeMenu}>Gallery</Link>
+          <Link to="/about" onClick={closeMenu}>About</Link>
           <Link to="/reading" onClick={closeMenu}>3 Card Reading</Link>
         </nav>
       </div>
